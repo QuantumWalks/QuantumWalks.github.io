@@ -1,0 +1,20 @@
+\documentclass{standalone}
+\usepackage{tikz}
+\usetikzlibrary{calc}
+\usetikzlibrary{shapes.geometric, arrows,matrix}
+\usetikzlibrary{decorations.markings}
+\tikzset{nodeStyle/.style = {circle,draw,minimum size=30pt}}
+\tikzset{arrowStyle/.style = {-latex}}
+\begin{document}
+
+%pdf to png
+%convert -density 600 -background white -alpha remove -resize 500x500 -extent 500x500 -gravity center QSpatialSearch_logo.pdf QSpatialSearch_logo.png
+
+%pdf to ico
+%convert -density 600 -background white -alpha remove -resize 256x256 QSpatialSearch_logo.pdf QSpatialSearch_logo.ico
+
+
+\input{julia-generated.tex}
+
+
+\end{document}
