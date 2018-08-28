@@ -2,8 +2,7 @@
 
 We are an organization focused on implementing and developing various quantum walks model and its applications. Currently we are developing *Julia* modules.
 
-## [QSWalk.jl](https://github.com/QuantumWalks/QSWalk.jl) [![Build Status](https://travis-ci.org/QuantumWalks/QSWalk.jl.svg?branch=master)](https://travis-ci.org/QuantumWalks/QSWalk.jl) [![Coverage Status](https://coveralls.io/repos/github/QuantumWalks/QSWalk.jl/badge.svg?branch=master)](https://coveralls.io/github/QuantumWalks/QSWalk.jl?branch=master)  
-[![](https://img.shields.io/badge/docs-latest-blue.svg)](https://QuantumWalks.github.io/QSWalk.jl/latest)
+## [QSWalk.jl](https://github.com/QuantumWalks/QSWalk.jl) [![Build Status](https://travis-ci.org/QuantumWalks/QSWalk.jl.svg?branch=master)](https://travis-ci.org/QuantumWalks/QSWalk.jl) [![Coverage Status](https://coveralls.io/repos/github/QuantumWalks/QSWalk.jl/badge.svg?branch=master)](https://coveralls.io/github/QuantumWalks/QSWalk.jl?branch=master)  [![](https://img.shields.io/badge/docs-latest-blue.svg)](https://QuantumWalks.github.io/QSWalk.jl/latest)
 
 The package implements open quantum walks based on GKSL master euqation. Detailed description of the package can be found on [arXiv:1801.01294](https://arxiv.org/abs/1801.01294) 
 ## [QuantumWalk.jl](https://github.com/QuantumWalks/QuantumWalk.jl) [![Build Status](https://travis-ci.org/QuantumWalks/QuantumWalk.jl.svg?branch=master)](https://travis-ci.org/QuantumWalks/QuantumWalk.jl) [![Coverage Status](https://coveralls.io/repos/github/QuantumWalks/QuantumWalk.jl/badge.svg?branch=master)](https://coveralls.io/github/QuantumWalks/QuantumWalk.jl?branch=master) [![](https://img.shields.io/badge/docs-latest-blue.svg)](https://QuantumWalks.github.io/QuantumWalk.jl/latest)
